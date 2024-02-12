@@ -1,0 +1,23 @@
+body {
+  background-color: #ff758f;
+}
+
+button {
+  background-color: #ff8fa3;
+  border: 1px solid white;
+  border-radius: 8px;
+  font-family: Handlee;
+  font-size: 24px;
+  color: #c9184a;
+}
+
+p {
+  color: #c9184a;
+  display: inline;
+  font-size: 48px;
+  margin: 20px;
+}
+
+#mash {
+  text-align: center;
+}
